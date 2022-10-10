@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CKANI1999
-- 👀 I’m interested in data science and the fintech sector
+- 👀 I’m looking forward to this journey of learning, hopefully landing a job
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me connormkanipe@gmail.com
